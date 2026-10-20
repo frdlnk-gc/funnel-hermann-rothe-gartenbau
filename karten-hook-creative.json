@@ -1,0 +1,21 @@
+{
+ "name": "creative-1-karten-hook",
+ "logo": "logo-hd.png",
+ "foto": "img/foto-hd-gartencenter.jpg",
+ "fokus": [
+  0.45,
+  0.45
+ ],
+ "karte": "img/karte.jpg",
+ "primary": "#008254",
+ "headline": [
+  "BUCH-",
+  "HALTER"
+ ],
+ "headline_zusatz": "(m/w/d) · Voll- oder Teilzeit",
+ "pill": [
+  "Ohne Lebenslauf &",
+  "Anschreiben!"
+ ],
+ "ort": "Zehlendorf · Steglitz · Teltow & Umgebung"
+}

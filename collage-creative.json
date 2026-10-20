@@ -1,0 +1,36 @@
+{
+ "name": "creative-2-collage",
+ "logo": "logo-hd.png",
+ "fotos": [
+  "img/foto-hd-gewaechshaus.jpg",
+  "img/foto-hd-pflanzenverkauf.jpg",
+  "img/foto-hd-raumbegruenung.jpg"
+ ],
+ "fokus": [
+  [
+   0.5,
+   0.5
+  ],
+  [
+   0.5,
+   0.5
+  ],
+  [
+   0.5,
+   0.45
+  ]
+ ],
+ "primary": "#008254",
+ "ink": "#1B1B1B",
+ "headline": [
+  "Buch-",
+  "halter"
+ ],
+ "headline_zusatz": "(m/w/d) – Voll- oder Teilzeit",
+ "ort": "Berlin-Zehlendorf · Steglitz · Teltow",
+ "cta": [
+  "Jetzt unverbindliches",
+  "Job-Angebot erhalten –",
+  "mit 1 Klick!"
+ ]
+}
