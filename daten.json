@@ -1,0 +1,120 @@
+{
+ "firma": "Hermann Rothe Gartenbau",
+ "stelle": "Buchhalter (m/w/d)",
+ "ort": "Berlin",
+ "plz": "14169",
+ "branche": "gartencenter",
+ "farbe_primary": "#008254",
+ "farbe_secondary": "#E75014",
+ "region_badge": "Berlin-Zehlendorf & Umgebung",
+ "benefit_top": "Voll- oder Teilzeit",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag",
+  "Vollzeit oder Teilzeit – Umfang nach Absprache",
+  "Flexible Arbeitszeiten",
+  "Einarbeitung durch die bisherige Buchhaltung",
+  "Fahrtkostenzuschuss & Firmenhandy",
+  "Ermäßigte Preise für Pflanzen und Gartenprodukte",
+  "Modernes Büro mit Gründerzeitcharme",
+  "Flache Hierarchien & freundliches Arbeitsklima"
+ ],
+ "aufgaben": [
+  "Du führst die doppelte Buchführung mit Diamant – Kreditoren und Debitoren laufen größtenteils automatisiert",
+  "Du buchst die Bankbewegungen, machst die Kontoabstimmungen und begleitest die Inventur",
+  "Du erstellst die monatliche BWA, kontrollierst Rechnungen und bereitest die Umsatzsteuermeldung fürs Steuerbüro vor",
+  "Du pflegst die Lohndaten ein – sie kommen fertig über DATEV aus dem Steuerbüro"
+ ],
+ "anforderung": "Abgeschlossene kaufmännische Ausbildung und mehrjährige Erfahrung in der Buchhaltung, dazu gute MS-Office-Kenntnisse und Erfahrung mit Buchhaltungssoftware (Diamant von Vorteil). Gearbeitet wird vor Ort im Büro am Betriebsstandort.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Kaufmännische Ausbildung",
+   "icon": "🧾",
+   "qualifikationen": [
+    {
+     "label": "Mehrjährige Erfahrung in der Buchhaltung",
+     "icon": "📊"
+    },
+    {
+     "label": "Erste Erfahrung in der Buchhaltung",
+     "icon": "📘"
+    },
+    {
+     "label": "Noch keine Buchhaltungserfahrung",
+     "icon": "🌱"
+    }
+   ]
+  },
+  {
+   "label": "Andere Ausbildung",
+   "icon": "🎓",
+   "qualifikationen": [
+    {
+     "label": "Mehrjährige Erfahrung in der Buchhaltung",
+     "icon": "📊"
+    },
+    {
+     "label": "Erste Erfahrung in der Buchhaltung",
+     "icon": "📘"
+    },
+    {
+     "label": "Noch keine Buchhaltungserfahrung",
+     "icon": "🌱"
+    }
+   ]
+  },
+  {
+   "label": "Ohne Ausbildung",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Mehrjährige Erfahrung in der Buchhaltung",
+     "icon": "📊"
+    },
+    {
+     "label": "Erste Erfahrung in der Buchhaltung",
+     "icon": "📘"
+    },
+    {
+     "label": "Noch keine Buchhaltungserfahrung",
+     "icon": "🌱"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "1896",
+    "label": "gegründet"
+   },
+   {
+    "zahl": "50",
+    "label": "Mitarbeiter"
+   },
+   {
+    "zahl": "4.",
+    "label": "Generation"
+   }
+  ],
+  "text": "Traditionsreiches Familienunternehmen in Berlin-Zehlendorf, in vierter Generation geführt. Rothe produziert und handelt Pflanzen – mit eigener Gärtnerei, großem Gartencenter, Floristik und Raumbegrünungsservice. In der Buchhaltung arbeitest du in einem kleinen, kollegialen Team."
+ },
+ "kunde_tab": "26 Hermann Rothe Gartenbau",
+ "quelle": "https://hermann-rothe-gartenbau.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Berlin-Zehlendorf"
+ },
+ "hero_bild": "img/hero-gartencenter.jpg",
+ "bilder": [
+  "img/f1-gewaechshaus.jpg",
+  "img/f2-pflanzenverkauf.jpg",
+  "img/f3-gartencenter-aussen.jpg",
+  "img/f5-raumbegruenung.jpg",
+  "img/f4-gewaechshaeuser.jpg",
+  "img/f7-dahlien.jpg",
+  "img/f6-weihnachtsausstellung.jpg",
+  "img/f8-historisch.jpg"
+ ]
+}
